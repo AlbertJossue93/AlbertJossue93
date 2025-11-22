@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hello! I'm **Albert Ojeda**, a **Technologist in Systems Analysis and Development**.  
+Hello! I'm **Albert Ojeda**, an **Analyst and Systems Developer**.  
 I focus on improving my skills as a **Full Stack Developer**, with experience in both **Front-end** and **Back-end**.
 
 I work mainly with **Python**, **JavaScript**, and **PHP**, exploring frameworks such as **Django**, **React**, and **Angular**.  
@@ -52,5 +52,6 @@ I consider myself proactive, curious, and committed to continuous learning — a
 
 ### 💻 **Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
