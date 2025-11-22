@@ -1,21 +1,56 @@
-# 💫 About Me:
-Initially, I would like to share a little about my journey and my current moment. My name is Albert Ojeda, and I am in the third semester of the Systems Analysis and Development course. I have been dedicated to improving my technical skills, with an emphasis on back-end, using Java as my main language. Additionally, I am immersed in learning Python.<br>I am a proactive and results-oriented person, with a logical and effective thinking that I seek to apply in my projects. My current experience has provided me with solid basic knowledge, but I am eager to explore new programming languages and expand my expertise.<br>
+# 💫 About Me
 
+Hello! I'm **Albert Ojeda**, a **Technologist in Systems Analysis and Development**.  
+I focus on improving my skills as a **Full Stack Developer**, with experience in both **Front-end** and **Back-end**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/turco.og/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-ojeda-970b84260/) 
+I work mainly with **Python**, **JavaScript**, and **PHP**, exploring frameworks such as **Django**, **React**, and **Angular**.  
+I'm passionate about building APIs, solving problems, and creating efficient, scalable solutions.
 
-# 💻 Skills:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlbertJossue93&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlbertJossue93&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertJossue93&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlbertJossue93&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+I consider myself proactive, curious, and committed to continuous learning — always exploring new tools, technologies, and challenges.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlbertJossue93&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/turco.og/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-ojeda-970b84260/)
+
+---
+
+# 💻 Tech Stack
+
+### 🔹 **Languages & Frameworks**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-787CB5.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+---
+
+### 🎨 **Front-end & UI**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)
+
+---
+
+### 🔗 **APIs & Tools**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![API](https://img.shields.io/badge/REST%20APIs-%23007396.svg?style=for-the-badge&logo=api&logoColor=white)
+
+---
+
+### 💻 **Operating Systems**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
